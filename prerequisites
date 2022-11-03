@@ -1,0 +1,24 @@
+:: understand the connection b2n an ORM and Active Record
+:: understand why active record is useful
+:: learn what "convention over configuration" means
+:: develop a basic understanding of how to get started with active record
+
+:ActiveRecord is a ruby gem
+
+:: convention over configuration,
+means that as developers, as long as we follow the conventions that 
+Active Record expects, we dont have to spend as much time writing out
+the configuration explicitly.
+
+
+
+
+
+
+
+
+
+
+
+
+
